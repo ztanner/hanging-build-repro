@@ -9,8 +9,6 @@ export async function generateStaticParams() {
       second: "1231",
       third: "123141",
       fourth: "123133",
-      fifth: "hey",
-      sixth: "heyo",
     },
   ];
 }
